@@ -1,3 +1,5 @@
+require(ggplot2)
+
 x <- 0.120000
 i <- 1
 vectX <- c()
